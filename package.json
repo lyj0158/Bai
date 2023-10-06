@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "echarts": "^4.8.0",
+    "image-tools": "^1.4.0",
+    "mpvue-echarts": "^0.3.2"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}
